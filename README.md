@@ -43,8 +43,6 @@
 
 
 
-🌐 Onlayn hujjat:
-[📎 Postman online hujjati bu yerda](https://.postman.co/workspace/My-Workspace~90e16836-b8b5-4aa2-8227-b5af2b84b2f5/collection/43380057-0ad90b35-78be-4086-a72c-d74ead8dd7b2?action=share&creator=43380057)
 
 
 ---
