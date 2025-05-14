@@ -43,7 +43,7 @@
 
 
 🌐 Onlayn hujjat:
-[📎 Postman online hujjati bu yerda](https://identity.getpostman.com/accounts?dwn=1&continue=https%3A%2F%2Fgo.postman.co%2Fworkspace%2FMy-Workspace~90e16836-b8b5-4aa2-8227-b5af2b84b2f5%2Fcollection%2F43380057-0ad90b35-78be-4086-a72c-d74ead8dd7b2%3Faction%3Dshare%26creator%3D43380057)
+[📎 Postman online hujjati bu yerda](https://documenter.getpostman.com/view/43380057/2sB2qUo53F)
 
 
 ---
